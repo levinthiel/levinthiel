@@ -4,6 +4,7 @@
 
 🔭 I love everything sci-fi
 
+![a gif](https://media1.tenor.com/m/9_aejokMHsYAAAAd/savage-cat.gif)
 <!--
 **levinthiel/levinthiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
