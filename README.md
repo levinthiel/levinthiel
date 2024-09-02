@@ -1,4 +1,7 @@
-## Hi there 👋
+## Wassup ?! 👋
+
+💬 let's talk about about books, movies, games....
+🔭 I love everything sci-fi
 
 <!--
 **levinthiel/levinthiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
