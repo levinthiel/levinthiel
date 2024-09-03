@@ -23,6 +23,10 @@ Enjoy the chaos!
   </a>
 </div>
 
+---
+<div>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flevinthiel%2Flevinthiel%2Fedit%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flevinthiel%2Flevinthiel%2Fedit%2Fmain%2FREADME.md&labelColor=%23697689&countColor=%23263759&style=flat&labelStyle=none" /></a>
+</div>
 <!--
 **levinthiel/levinthiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
