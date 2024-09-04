@@ -14,7 +14,7 @@ Enjoy the chaos!
 
 **additional skils:** _Team leading, drawing, painting, storyboarding_
 
-## Curently Learning:
+### Curently Learning:
 ![My Skills](https://skillicons.dev/icons?i=js,git,github)
 
 ---
