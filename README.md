@@ -23,7 +23,9 @@ I’m just a caffeine-fueled nerd trying to turn coffee into code. If you find a
 
 ## My skillset so far 
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,styledcomponents,js,html,css,wordpress,github,git,mongodb)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,styledcomponents,js,html)
+
+![My Skills](https://skillicons.dev/icons?i=css,wordpress,github,git,mongodb)
 
 ![My Skills](https://skillicons.dev/icons?i=ps,xd,ai,pr,figma)
 
