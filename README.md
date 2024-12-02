@@ -8,7 +8,6 @@ If you find any bugs 🪲, please return them to the wild — no questions asked
 ![Untitled-1](https://github.com/user-attachments/assets/88b4ef13-a522-44c1-bda1-ded4b5bfb4cd)
 
 
----
 🪴I'm working on a cool project at the moment:
 
 ![Logo-main](https://github.com/user-attachments/assets/10171014-099b-41e6-9bad-0a42dc67795e)
