@@ -1,6 +1,6 @@
 # Code & Coffee ☕️
  <br/>
-Welcome to my little corner of the coding universe! 🚀 <br/>
+Welcome to my little corner of the coding universe! 🚀 <br/> <br/>
 I’m just a caffeine-fueled nerd trying to turn coffee into code. If you find any bugs 🪲, please return them to the wild - no questions asked. <br/>
 
 💬we can talk about about jobs, books, comics, movies, games....🔭 I love everything sci-fi
