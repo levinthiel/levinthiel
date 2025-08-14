@@ -29,11 +29,11 @@ I’m just a caffeine-fueled nerd trying to turn coffee into code. If you find a
 
 ## My skillset so far 
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,styledcomponents,js,html,sass, bootstrap)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,styledcomponents,js,html,sass,bootstrap)
 
-![My Skills](https://skillicons.dev/icons?i=css,wordpress,github,git, gitlab, mongodb)
+![My Skills](https://skillicons.dev/icons?i=css,wordpress,github,git,gitlab,mongodb)
 
-![My Skills](https://skillicons.dev/icons?i=ps,xd,ai,pr,figma, obsidian)
+![My Skills](https://skillicons.dev/icons?i=ps,xd,ai,pr,figma,obsidian)
 
 **additional skils:** _Team leading, drawing, painting, storyboarding_
 
