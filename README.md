@@ -1,4 +1,5 @@
 # Code & Coffee ☕️
+ <br/>
 Welcome to my little corner of the coding universe! 🚀 <br/>
 I’m just a caffeine-fueled nerd trying to turn coffee into code. If you find any bugs 🪲, please return them to the wild - no questions asked. <br/>
 
@@ -9,7 +10,7 @@ I’m just a caffeine-fueled nerd trying to turn coffee into code. If you find a
 
 ## I'm working on a cool project at the moment 
 
-https://www.forcefield-gray.vercel.app
+[forcefield](https://www.forcefield-gray.vercel.app)
 
 ---
 
