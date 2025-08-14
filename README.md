@@ -31,9 +31,9 @@ I’m just a caffeine-fueled nerd trying to turn coffee into code. If you find a
 
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,styledcomponents,js,html,sass,bootstrap)
 
-![My Skills](https://skillicons.dev/icons?i=css,wordpress,github,git,gitlab,mongodb)
+![My Skills](https://skillicons.dev/icons?i=css,wordpress,github,git,gitlab,mongodb,md)
 
-![My Skills](https://skillicons.dev/icons?i=ps,xd,ai,pr,figma,obsidian)
+![My Skills](https://skillicons.dev/icons?i=ps,xd,ai,pr,figma,obsidian,vscode)
 
 **additional skils:** _Team leading, drawing, painting, storyboarding_
 
